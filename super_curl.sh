@@ -1,4 +1,7 @@
 #!/bin/bash
+#
+# Curl an HTTP endpoint some N number of times at once in the background
+#
 
 URL="https://api.publicapis.org/entries"
 NUM_OF_REQUESTS=50
